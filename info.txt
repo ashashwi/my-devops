@@ -15,3 +15,4 @@ ppppppppppppppppp
 prepepreprepre
 delete
 restore
+delete delete twice
