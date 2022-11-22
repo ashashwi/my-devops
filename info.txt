@@ -18,4 +18,3 @@ restore
 delete delete twice
 latest update from local-ash
 latest update from remote
-ashwini
